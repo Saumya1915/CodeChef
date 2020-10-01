@@ -20,5 +20,7 @@ for tc in range(t):
             if(m[i]+c)%2!=0:
                 c+=1
         print(c)
+        
+        
 
     
